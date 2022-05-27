@@ -1,0 +1,18 @@
+* {
+    background-color: black;
+    color: white;
+}
+p {
+    margin-left: 50px;
+}
+.center
+{
+    text-align: center;
+    font-size: xx-large;
+    color: tomato;
+}
+#name
+{
+    color: lightskyblue;
+    text-align: center;
+}
